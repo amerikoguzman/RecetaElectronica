@@ -16,5 +16,8 @@
         <p>
             Primer parrafo de la todo
         </p>
+        <p>
+            Parrado 2 para ver si sale el iconito azulito
+        </p>
     </body>
 </html>
