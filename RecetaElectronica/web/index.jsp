@@ -13,11 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>
-            Primer parrafo de la todo
-        </p>
-        <p>
-            Parrado 2 para ver si sale el iconito azulito
-        </p>
     </body>
 </html>
